@@ -1,0 +1,5 @@
+Hi! I'm a Software Development Engineer II at Amazon, where my team works on streaming and publishing advertiser intent data. Previously, I was a computer science major at Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games. 
+
+I also competed in debate, where I was the runner-up at the World Universities Debating Championship, top individual debater at the collegiate North American Debating Championship, and two-time high school national champion. 
+
+My interests include board games, effective altruism, and playing basketball (poorly). I'm originally from Chicago and Bethesda (MD), but I currently live in New York City.
