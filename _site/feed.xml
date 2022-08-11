@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Arnesen</title>
+    <description>Software Engineer at Amazon</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 11 Aug 2022 01:19:55 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Aug 2022 01:19:55 -0400</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Welcome To Jekyll</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “Welcome to Jekyll!”
+date:   2022-08-10 00:43:14 -0400
+categories: jekyll update
+___&lt;/p&gt;
+
+&lt;p&gt;Hi! I’m a Software Development Engineer II at Amazon, where my team works on streaming and publishing advertiser intent data. Previously, I was a computer science major at Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games. I also competed in debate, where I was the runner-up at the World Universities Debating Championship, top individual debater at the collegiate North American Debating Championship, and two-time high school national champion. My interests include board games, effective altruism, and playing basketball (poorly). I’m originally from Chicago and Bethesda (MD), but I currently live in New York City.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Projects</title>
+        <description>&lt;h2 id=&quot;ml&quot;&gt;ML&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/poker-player&quot;&gt;poker-player&lt;/a&gt;&lt;/strong&gt; – tried to teach myself the basics of graph neural networks by coding up a GNN-based classifier of Texas Hold’em hands and then tried to use that as the foundation of a poker playing AI agent. The classifier worked well but the playing mechanism very much did not.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/connect_four&quot;&gt;connect-four&lt;/a&gt;&lt;/strong&gt; – agent learns to play connect four by playing against itself from random starting positions. Can beat me every time but I’ve never tried it against someone who’s any good. Also includes a nifty front-end built by Rohit Dilip&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/learning-rl&quot;&gt;spinning-up-rl&lt;/a&gt;&lt;/strong&gt; – built models from the OpenAI Spinning Up RL paper series. Completed the main papers double DQNs, simple policy gradients, deep deterministic policy gradients, and intrinsic curiosity modules, among others.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1HZi076im-6v35Y6XBqXpJQ6SN1Yay9Za#scrollTo=b64d4dbb&quot;&gt;gpu-practice&lt;/a&gt;&lt;/strong&gt; – taught myself the basics of Numba/GPU programming by completing a series of puzzles made by Prof. Sasha Rush. Technically this isn’t ML but it fits this category the best.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/into-the-wild&quot;&gt;maximum-entropy-elections&lt;/a&gt;&lt;/strong&gt; – inspired by a paper on using maximum entropy models to capture influence on the Supreme Court, we attempted to extend this to Senate voting records. We were able to replicate the Supreme Court analysis but the method 100% did not work for the Senate (you can’t really capture influence networks when most members vote the same way almost every time). Done jointly with Rohit Dilip.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/walkthrough-agent&quot;&gt;thesis&lt;/a&gt;&lt;/strong&gt; – My undergraduate thesis was on whether we could finetune a language model to play text-based games such as Zork. Potentially, this could’ve been a toy case for the broader question of whether large language models could be improved via RL in the wild. I spent a really long time creating a dataset to train the agents but even then I think it was too small to get the agents to do much of interest (the pre-trained large language models did actually improve by training on other text-based games but my personal take is that was primarily because it did a better job of learning the relevant vocabulary). That said, I did learn an enormous amount about RL, large language models, and CS research in the process. Completed under advisor Prof. Karthik Narasimhan.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-analysis&quot;&gt;Data Analysis&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/thesis_gender&quot;&gt;thesis-gender&lt;/a&gt;&lt;/strong&gt; – got a bunch of data on people who submitted theses at Princeton and looked into whether the use of collective or individual pronouns varied by the assumed gender of the author (e.g. “We show” vs “I show”). It turned out that women were much more likely to use individual pronouns, but this effect was entirely due to differences in major selection by gender. STEM majors were much more likely to use collective pronouns while social science and humanities majors used individual pronouns more frequently. As the STEM majors had many more men than women, men ended up using collective pronouns more often overall. Within each major though, there was zero difference between genders.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/turkey_trot&quot;&gt;turkey-trot&lt;/a&gt;&lt;/strong&gt; – in 2019, I ran a large 10K race on Thanksgiving and it really bothered me that despite accurately selecting my pace group, I spent most of the race weaving in and out of people that I had to pass to maintain my (slow) pace. So I downloaded the results from online and did some simple analysis. It turns out that people are horrible at selecting their pace group – with the exception of the people in the sub-6:30 mile groups, the average racetime was basically the same across all pace groups. Both the 9 minute pace group (my group) and the 7:30 group, on average, ran at the same speed! (Incidentally, that speed averaged out to just under 10 minutes/mile for both groups, so no one was actually right).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/donor-directions&quot;&gt;donor-directions&lt;/a&gt;&lt;/strong&gt; – We downloaded the donor files to all the major candidates in the 2020 primary elections. We then manually mapped a couple thousand job descriptions to their associated industry and used that to train a very simple classifier. We then did some simple analyses on the results (mostly just normal plots and simple clustering mechanisms). We did a longer write-up of the results (here)while we were bored during the earlier pandemic. Done jointly with Rohit Dilip.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/nba-draft&quot;&gt;nba-draft&lt;/a&gt;&lt;/strong&gt; – If an ESPN Big Board says Player A is better than Player B, but B is drafted ahead of A, which player is likely to turn out better? Suprisingly, the ESPN Big Board was actually correct 2/3rds of the time. Obviously there’s a lot of caveats here (e.g. higher draft picks are more likely to get greater playing time and the dataset I created only had 10 years of big boards) but that still went against what I would have guessed.&lt;/p&gt;
+
+&lt;h2 id=&quot;games&quot;&gt;Games&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/nba-gm&quot;&gt;nba-gm&lt;/a&gt;&lt;/strong&gt; – during peak pandemic boredom, I created a fantasy-basketball-like game that I could play against friends. It takes the 5 best years of every NBA all-star post-1980 and each season (you play for 10 seasons), a subset of them become available for drafting. We added in some twists to improve game play - one was that the players will only play for a varying number of seasons (do you want 3 seasons of Michael Jordan or 5 seasons of Tim Duncan?) while another was that only some players would have their names revealed during the draft, with the remainder showing just their stats from a small sample of games (do you want to take a guaranteed good-but-not-incredible Alex English or an unknown guy who looks like Magic Johnson during a 5 game sample?). We ended up playing this a bunch and it was really fun, although the terminal-based UI was terrible. The data was scraped by Will Arnesen and the game concept was come up with by Matt Feng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/avalon&quot;&gt;avalon&lt;/a&gt;&lt;/strong&gt; – we played about two hundred games of Avalon during the pandemic but simple stats didn’t do a great job at capturing who was the best since the bad guys win most of the time. So I constructed a bunch of different “advanced” stats (some of which were pretty reasonable while others very much were not) to figure out which one of us was actually the most skilled.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/boggle&quot;&gt;boggle&lt;/a&gt;&lt;/strong&gt; – I played a lot of boggle early in the pandemic with my siblings and we wanted to figure out which words we missed after the game was over. This is easily available online but it was easy enough to create so figured I’d make my own&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/contract_game&quot;&gt;bull-market&lt;/a&gt;&lt;/strong&gt; – my brother figured that an auction would be a neat gameplay mechanism for a board game. So he created a game where the US was divided up into 100ish small territories that each produced a variety of resources, with the precise values based off of actual DOE/DOA production data. Each turn, a contract would come up that would represent a demand function for a particular good in a particular city and would specify the auction mechanism it would use (second-price auction and Cornot were the two options). Each player would then submit their bid, with their cost curve being based on the territories they owned and the distance from the city demanding the resource. It took awhile to compute the production costs each turn so I coded the game to speed things up. Unfortunately, the game ended up with a runaway-winner problem but it was still pretty fun to create and mess around with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/mastermind&quot;&gt;mastermind&lt;/a&gt;&lt;/strong&gt; –  my siblings and I played mastermind one morning and we wanted to figure out the minimum number of guesses we needed to solve each puzzle so I coded up this very simple solver&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/spoons&quot;&gt;spoons&lt;/a&gt;&lt;/strong&gt; – I had a disagreement with my brother about whether the player in the first position has an advantage in the card game Spoons. I thought they had an advantage because they can see more cards while he thought they had a disadvantage because there are a greater number of potentially-useful cards that they’ll never have access to. So I coded up a simple simulator to determine who was right. Unfortunately, it was inconclusive because the result is very sensitive to differences in the input – if a regular player can draw from their pile at the same speed as the first player can draw from the deck, then there is a disadvantage to going first. However, if the first player can draw faster, that disadvantage shrinks. At a high enough speed difference, the first player has an advantage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/spycraft&quot;&gt;spycraft&lt;/a&gt;&lt;/strong&gt; – Spycraft is a pretty fun social deception party game that you can buy online. We wanted to play it in person with my extended family and to create our own cards so I coded up an extremely-simple version of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/samuelarnesen/board-games/tree/master/bgfw&quot;&gt;bgfw&lt;/a&gt;&lt;/strong&gt; – A relatively simple programming framework for building terminal-based board games. I used it to create the auction-based board game.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/projects/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/projects/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello</title>
+        <description>&lt;p&gt;Hi! I’m a Software Development Engineer II at Amazon, where my team works on streaming and publishing advertiser intent data. Previously, I was a computer science major at Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games.&lt;/p&gt;
+
+&lt;p&gt;I also competed in debate, where I was the runner-up at the World Universities Debating Championship, top individual debater at the collegiate North American Debating Championship, and two-time high school national champion.&lt;/p&gt;
+
+&lt;p&gt;My interests include board games, effective altruism, and playing basketball (poorly). I’m originally from Chicago and Bethesda (MD), but I currently live in New York City.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/hello/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/hello/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Experience</title>
+        <description>&lt;h2 id=&quot;professional-experience&quot;&gt;Professional Experience&lt;/h2&gt;
+
+&lt;h3 id=&quot;amazon&quot;&gt;Amazon&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Software Development Engineer II (2022 - Present)&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Software Development Engineer I (2020 - 2022)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Worked on an Amazon advertising team optimizing the performance and extensibility of the campaign management persistence layer and data streaming pipeline.&lt;/li&gt;
+  &lt;li&gt;Led the planning, design, and implementation of a 9 month project to migrate the legacy Postgres database that stored all advertiser intent data to a NoSQL data model built off AWS DynamoDB, AWS Lambda, and Elasticsearch that now processes 250 million operations/day worldwide.&lt;/li&gt;
+  &lt;li&gt;Designed and implemented a high-throughput, distributed system built off of AWS Lambda, AWS DynamoDB, and Apache Kafka for guaranteeing the ordering of versioned records with foreign key relationships within our data streaming pipeline. Allows ad serving, analytics, and 20+ other internal teams to gain access to in-order data within 2 seconds of an update.&lt;/li&gt;
+  &lt;li&gt;Designed and implemented a distributed traffic replay service that replicates every production request (~3k TPS) and sends them to a preproduction environment to enable regression testing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;amazon-web-services&quot;&gt;Amazon Web Services&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Software Development Engineer Intern (2020 - 2020)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developed tool for the automatic redaction of sensitive information for use in compliance control operations. Involved designing, implementing, and unit/integration testing a stack that incorporated AWS’s CloudFormation, S3, SQS, CloudWatch, Rekognition, and Textract services.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;honors-and-awards&quot;&gt;Honors and Awards&lt;/h2&gt;
+
+&lt;h3 id=&quot;international&quot;&gt;International&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dailyprincetonian.com/article/2018/02/princeton-debaters-profile&quot;&gt;Runner-up&lt;/a&gt; at the &lt;a href=&quot;https://en.wikipedia.org/wiki/World_Universities_Debating_Championship&quot;&gt;World Universities Debating Championship&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/North_American_Debating_Championship&quot;&gt;Top individual debater&lt;/a&gt; at the collegiate North American Debating Championship&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;national&quot;&gt;National&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.speechanddebate.org/nationals-history/&quot;&gt;2x winner&lt;/a&gt; of the high school National Speech &amp;amp; Debate Association National Championship in Public Forum Debate&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_Tournament_of_Champions_winners#Public_Forum_Debate_Champions_and_Runner_Ups&quot;&gt;2x winner&lt;/a&gt; of the high school Tournament of Champions in Public Forum Debate&lt;/li&gt;
+  &lt;li&gt;Winner of 13 total national competitions in high school and collegiate debating&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;coursework&quot;&gt;Coursework&lt;/h2&gt;
+
+&lt;h3 id=&quot;computer-science&quot;&gt;Computer Science&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Machine Learning&lt;/li&gt;
+  &lt;li&gt;Computer Vision&lt;/li&gt;
+  &lt;li&gt;Natural Language Processing&lt;/li&gt;
+  &lt;li&gt;Distributed Systems&lt;/li&gt;
+  &lt;li&gt;Economics and Computing&lt;/li&gt;
+  &lt;li&gt;Reasoning About Computation&lt;/li&gt;
+  &lt;li&gt;Advanced Programming&lt;/li&gt;
+  &lt;li&gt;Computer Systems&lt;/li&gt;
+  &lt;li&gt;Data Structures and Algorithms&lt;/li&gt;
+  &lt;li&gt;Linear Algebra&lt;/li&gt;
+  &lt;li&gt;Probability and Stochastic Systems&lt;/li&gt;
+  &lt;li&gt;Accessibility Design (Independent Work)&lt;/li&gt;
+  &lt;li&gt;Computer Vision (Indepdent Work)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;economics&quot;&gt;Economics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Organization and Design of Markets&lt;/li&gt;
+  &lt;li&gt;Economics and Computing&lt;/li&gt;
+  &lt;li&gt;Radical Markets&lt;/li&gt;
+  &lt;li&gt;American Economic History&lt;/li&gt;
+  &lt;li&gt;Introduction to Microeconomics&lt;/li&gt;
+  &lt;li&gt;Introduction to Macroeconomics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;philosophy&quot;&gt;Philosophy&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Philosophical Foundations of Probability&lt;/li&gt;
+  &lt;li&gt;Practical Ethics&lt;/li&gt;
+  &lt;li&gt;Freedom and Responsibility&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/experience/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/experience/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
