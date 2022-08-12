@@ -7,14 +7,14 @@
 * Worked on an Amazon advertising team optimizing the performance and extensibility of the campaign management persistence layer and data streaming pipeline.
 * Led the planning, design, and implementation of a 9 month project to migrate the legacy Postgres database that stored all advertiser intent data to a NoSQL data model built off AWS DynamoDB, AWS Lambda, and Elasticsearch that now processes 250 million operations/day worldwide.
 * Designed and implemented a high-throughput, distributed system built off of AWS Lambda, AWS DynamoDB, and Apache Kafka for guaranteeing the ordering of versioned records with foreign key relationships within our data streaming pipeline. Allows ad serving, analytics, and 20+ other internal teams to gain access to in-order data within 2 seconds of an update.
-* Designed and implemented a distributed traffic replay service that replicates every production request (~3k TPS) and sends them to a preproduction environment to enable regression testing.
-
+* Designed and implemented a distributed traffic replay service that replicates every production request (\~3k TPS) and sends them to a preproduction environment to enable regression testing.
 
 ### Amazon Web Services
 **Software Development Engineer Intern (2020 - 2020)**  
 
 * Developed tool for the automatic redaction of sensitive information for use in compliance control operations. Involved designing, implementing, and unit/integration testing a stack that incorporated AWS's CloudFormation, S3, SQS, CloudWatch, Rekognition, and Textract services.
 
+---
 
 ## Honors and Awards
 
@@ -29,6 +29,7 @@
 * [2x winner](https://en.wikipedia.org/wiki/List_of_Tournament_of_Champions_winners#Public_Forum_Debate_Champions_and_Runner_Ups) of the high school Tournament of Champions in Public Forum Debate
 * Winner of 13 total national competitions in high school and collegiate debating
 
+---
 
 ## Coursework
 

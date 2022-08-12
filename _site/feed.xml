@@ -5,8 +5,8 @@
     <description>Software Engineer at Amazon</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Aug 2022 01:19:55 -0400</pubDate>
-    <lastBuildDate>Thu, 11 Aug 2022 01:19:55 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Aug 2022 20:57:51 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Aug 2022 20:57:51 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -79,6 +79,139 @@ ___&lt;/p&gt;
       </item>
     
       <item>
+        <title>Music</title>
+        <description>
+&lt;h2 id=&quot;light&quot;&gt;Light&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Nemo Egg&lt;/strong&gt;(Finding Nemo) by Thomas Newman
+&lt;strong&gt;Vespa è Libertà&lt;/strong&gt;(Luca) by Dan Romer
+&lt;strong&gt;Romantic Flight&lt;/strong&gt;(How to Train Your Dragon) by John Powell&lt;/p&gt;
+
+&lt;h2 id=&quot;dramatic&quot;&gt;Dramatic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Landing&lt;/strong&gt;(First Man) by Justin Hurwitz
+&lt;strong&gt;Cornfield Chase&lt;/strong&gt;(Interstellar) by Hans Zimmer
+&lt;strong&gt;Like a Dog Chasing Cars&lt;/strong&gt;(The Dark Knight) by Hans Zimmer
+&lt;strong&gt;Now We Are Free&lt;/strong&gt;()&lt;/p&gt;
+
+&lt;h2 id=&quot;tense&quot;&gt;Tense&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hand Covers Bruise&lt;/strong&gt;(Social Network) by Trent Reznor and Atticus Ross
+&lt;strong&gt;Light of the Seven&lt;/strong&gt;(Game of Thrones) by Ramin Djawadi
+&lt;strong&gt;Promentory&lt;/strong&gt;(The Last of the Mohicans) by Trevor Jones
+&lt;strong&gt;Lux Aeterna&lt;/strong&gt;(Requiem for a Dream) by Clint Mansell
+&lt;strong&gt;Lily’s Theme&lt;/strong&gt;(Harry Potter and the Deathly Hallows: Part 2) by Alexandre Desplats&lt;/p&gt;
+
+&lt;h2 id=&quot;triumphant&quot;&gt;Triumphant&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Dream of Babylon&lt;/strong&gt;(Alexander) by Vangelis
+&lt;strong&gt;He’s a Pirate&lt;/strong&gt;(Pirates of the Carribean) by Dominik Hauser
+&lt;strong&gt;Superman&lt;/strong&gt;(Superman) by John Williams&lt;/p&gt;
+
+&lt;h2 id=&quot;classic&quot;&gt;Classic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;End Title&lt;/strong&gt;(Shawshank Redemption) by Thomas Newman
+&lt;strong&gt;Theme&lt;/strong&gt;(Schindler’s List) by John Williams and Itzhak Perlman&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/music/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/music/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Movies</title>
+        <description>&lt;h2 id=&quot;animated-films&quot;&gt;Animated Films&lt;/h2&gt;
+&lt;p&gt;Summit of the Gods (2021)&lt;/p&gt;
+
+&lt;p&gt;Spiderman: Into the Spiderverse (2018)&lt;/p&gt;
+
+&lt;p&gt;Coco (2017)&lt;/p&gt;
+
+&lt;p&gt;Zootopia (2016)&lt;/p&gt;
+
+&lt;p&gt;Rango (2011)&lt;/p&gt;
+
+&lt;p&gt;Tangled (2010)&lt;/p&gt;
+
+&lt;p&gt;Fantastic Mr. Fox (2009)&lt;/p&gt;
+
+&lt;p&gt;Ratatouille (2007)&lt;/p&gt;
+
+&lt;p&gt;The Incredibles (2004)&lt;/p&gt;
+
+&lt;p&gt;Finding Nemo (2003)&lt;/p&gt;
+
+&lt;p&gt;Shrek (2001)&lt;/p&gt;
+
+&lt;p&gt;Monster’s Inc (2001)&lt;/p&gt;
+
+&lt;p&gt;Spirited Away (2001)&lt;/p&gt;
+
+&lt;p&gt;Iron Giant (1999)&lt;/p&gt;
+
+&lt;p&gt;My Neighbor Totoro (1988)&lt;/p&gt;
+
+&lt;h2 id=&quot;blockbusters&quot;&gt;Blockbusters&lt;/h2&gt;
+&lt;p&gt;Top Gun: Maverick (2022)&lt;/p&gt;
+
+&lt;p&gt;The Batman (2022)&lt;/p&gt;
+
+&lt;p&gt;Dune (2021)&lt;/p&gt;
+
+&lt;p&gt;Avengers: Endgame (2019)&lt;/p&gt;
+
+&lt;p&gt;Captain America: The Winter Soldier (2014)&lt;/p&gt;
+
+&lt;p&gt;Guardians of the Galaxy (2014)&lt;/p&gt;
+
+&lt;p&gt;Dark Knight Rises (2012)&lt;/p&gt;
+
+&lt;p&gt;Harry Potter and the Deathly Hallows: Part 2 (2011)&lt;/p&gt;
+
+&lt;p&gt;Dark Knight (2008)&lt;/p&gt;
+
+&lt;p&gt;Iron Man (2008)&lt;/p&gt;
+
+&lt;h2 id=&quot;action-films&quot;&gt;Action Films&lt;/h2&gt;
+&lt;p&gt;Da 5 Bloods (2020)&lt;/p&gt;
+
+&lt;p&gt;Ford v Ferrari (2019)&lt;/p&gt;
+
+&lt;p&gt;Hell or High Water (2016)&lt;/p&gt;
+
+&lt;p&gt;Captain Phillips (2013)&lt;/p&gt;
+
+&lt;p&gt;Argo (2012)&lt;/p&gt;
+
+&lt;p&gt;Inception (2010)&lt;/p&gt;
+
+&lt;p&gt;No Country For Old Men (2007)&lt;/p&gt;
+
+&lt;p&gt;There Will Be Blood (2007)&lt;/p&gt;
+
+&lt;p&gt;Apollo 13 (1995)&lt;/p&gt;
+
+&lt;h2 id=&quot;other&quot;&gt;Other&lt;/h2&gt;
+&lt;p&gt;Nine Days (2020)&lt;/p&gt;
+
+&lt;p&gt;Death of Stalin (2017)&lt;/p&gt;
+
+&lt;p&gt;Get Out (2017)&lt;/p&gt;
+
+&lt;p&gt;Life of Pi (2012)&lt;/p&gt;
+
+&lt;p&gt;Moneyball (2011)&lt;/p&gt;
+
+&lt;p&gt;Social Network (2010)&lt;/p&gt;
+
+&lt;p&gt;Slumdog Millionaire (2008)&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/movies/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/movies/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Hello</title>
         <description>&lt;p&gt;Hi! I’m a Software Development Engineer II at Amazon, where my team works on streaming and publishing advertiser intent data. Previously, I was a computer science major at Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games.&lt;/p&gt;
 
@@ -89,6 +222,20 @@ ___&lt;/p&gt;
         <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2022/hello/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/hello/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Favorites</title>
+        <description>
+&lt;h3 id=&quot;books&quot;&gt;&lt;a href=&quot;../books&quot;&gt;Books&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;movies&quot;&gt;&lt;a href=&quot;../movies&quot;&gt;Movies&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/favorites/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/favorites/</guid>
         
         
       </item>
@@ -115,6 +262,8 @@ ___&lt;/p&gt;
   &lt;li&gt;Developed tool for the automatic redaction of sensitive information for use in compliance control operations. Involved designing, implementing, and unit/integration testing a stack that incorporated AWS’s CloudFormation, S3, SQS, CloudWatch, Rekognition, and Textract services.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;hr /&gt;
+
 &lt;h2 id=&quot;honors-and-awards&quot;&gt;Honors and Awards&lt;/h2&gt;
 
 &lt;h3 id=&quot;international&quot;&gt;International&lt;/h3&gt;
@@ -131,6 +280,8 @@ ___&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_Tournament_of_Champions_winners#Public_Forum_Debate_Champions_and_Runner_Ups&quot;&gt;2x winner&lt;/a&gt; of the high school Tournament of Champions in Public Forum Debate&lt;/li&gt;
   &lt;li&gt;Winner of 13 total national competitions in high school and collegiate debating&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;coursework&quot;&gt;Coursework&lt;/h2&gt;
 
@@ -174,6 +325,154 @@ ___&lt;/p&gt;
         <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2022/experience/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/experience/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Books</title>
+        <description>&lt;p&gt;These are some of the books I’ve read in the last five years outside of school that I enjoyed and would recommend.&lt;/p&gt;
+
+&lt;h2 id=&quot;tier-1&quot;&gt;Tier 1&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The Second Shift&lt;/strong&gt; by Arlie Russel Hochschild&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Being Mortal&lt;/strong&gt; by Atul Gawande&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evicted&lt;/strong&gt; by Matthew Desmond&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Poor Economics&lt;/strong&gt; by Abhjiit Banerjee and Esther Duflo&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;tier-2&quot;&gt;Tier 2&lt;/h2&gt;
+
+&lt;h3 id=&quot;dryer-but-more-informative&quot;&gt;Dryer But More Informative&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Career and Family&lt;/strong&gt; by Claudia Goldin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Locking Up Our Own&lt;/strong&gt; by James Forman&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Democracy and Distrust&lt;/strong&gt; by John Hart Ely&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Rise and Fall of American Growth&lt;/strong&gt; by Robert Gordon&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Locked In&lt;/strong&gt; by John Pfaff&lt;/p&gt;
+
+&lt;h3 id=&quot;informative-and-easier-to-read&quot;&gt;Informative And Easier To Read&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;No Good Men Among the Living&lt;/strong&gt; by Anand Gopal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strangers in Their Own Land&lt;/strong&gt; by Arlie Russell Hochschild&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Into the Hands of the Soldiers&lt;/strong&gt; by David Kirkpatrick&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Golden Gates&lt;/strong&gt; by Conor Dougherty&lt;/p&gt;
+
+&lt;h3 id=&quot;the-fun-ones&quot;&gt;The Fun Ones&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Very Important People&lt;/strong&gt; by Ashley Mears&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;tier-3&quot;&gt;Tier 3&lt;/h2&gt;
+
+&lt;h3 id=&quot;dryer-but-more-informative-1&quot;&gt;Dryer But More Informative&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Development as Freedom&lt;/strong&gt; by Amartya Sen&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Innovator’s Dilemma&lt;/strong&gt; by Clayton Christianson&lt;/p&gt;
+
+&lt;h3 id=&quot;informative-and-easier-to-read-1&quot;&gt;Informative And Easier to Read&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ghettoside&lt;/strong&gt; by Jill Leovy&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How Democracies Die&lt;/strong&gt; by Steven Levitsky and Daniel Ziblatt&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Brotopia&lt;/strong&gt; by Emily Chang&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bad Blood&lt;/strong&gt; by John Carreyrou&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Superforecasting&lt;/strong&gt; by Philip Tetlock and Dan Gardner&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Everything Store&lt;/strong&gt; by Brad Stone&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Say Nothing&lt;/strong&gt; by Patrick Radden Keefe&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Alignment Problem&lt;/strong&gt; by Brian Christian&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Family Firm&lt;/strong&gt; by Emily Oster&lt;/p&gt;
+
+&lt;h3 id=&quot;the-fun-ones-1&quot;&gt;The Fun Ones&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The Case Against Education&lt;/strong&gt; by Bryan Caplan&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t Trust Your Gut&lt;/strong&gt; by Seth Stephens-Davidowitz&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Everybody Lies&lt;/strong&gt; by Seth Stephens-Davidowitz&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The MVP Machine&lt;/strong&gt; by Ben Lindbergh and Travis Sawchik&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Biggest Bluff&lt;/strong&gt; by Maria Konnikova&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rockonomics&lt;/strong&gt; by Alan Krueger&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;tier-4&quot;&gt;Tier 4&lt;/h2&gt;
+
+&lt;h3 id=&quot;dryer-but-more-informative-2&quot;&gt;Dryer But More Informative&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The Innovators&lt;/strong&gt; by Walter Isaacson&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Color of Law&lt;/strong&gt; by Richard Rothstein&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Structure of Scientific Revolutions&lt;/strong&gt; by Thomas Kuhn&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Box&lt;/strong&gt; by Marc Levinson&lt;/p&gt;
+
+&lt;h3 id=&quot;informative-and-easier-to-read-2&quot;&gt;Informative And Easier to Read&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;An American Summer&lt;/strong&gt; by Alex Kotlowitz&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Great Successor&lt;/strong&gt; by Anna Fifeld&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Priced Out&lt;/strong&gt; by Uwe Reinhardt&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Behind the Beautiful Forevers&lt;/strong&gt; by Katherine Boo&lt;/p&gt;
+
+&lt;h3 id=&quot;the-fun-ones-2&quot;&gt;The Fun Ones&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The Only Rule Is That It Has To Work&lt;/strong&gt; by Ben Lindbergh and Sam Miller&lt;/p&gt;
+
+&lt;h2 id=&quot;tier-5&quot;&gt;Tier 5&lt;/h2&gt;
+
+&lt;h3 id=&quot;dryer-but-more-informative-3&quot;&gt;Dryer But More Informative&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Fragile by Design&lt;/strong&gt; by Charles Calomiris and Stephen Haber&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Portfolios of the Poor&lt;/strong&gt; by Daryl Collins et al&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is Islam?&lt;/strong&gt; by Shahab Ahmed&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We the Corporations&lt;/strong&gt; by Adam Winkler&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Capitalism without Capital&lt;/strong&gt; by Jonathan Haskel and Stian Westlake&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Death and Life of Great American Cities&lt;/strong&gt; by Jane Jacobs&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Mythical Man-Month&lt;/strong&gt; by Fred Brooks&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Right to Sex&lt;/strong&gt; by Amia Srinivasan&lt;/p&gt;
+
+&lt;h3 id=&quot;informative-and-easier-to-read-3&quot;&gt;Informative And Easier to Read&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;How to Avoid a Climate Disaster&lt;/strong&gt; by Bill Gates&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Genetic Lottery&lt;/strong&gt; by Paige Harden&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Catastrophic Care&lt;/strong&gt; by David Goldhill&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dreamland&lt;/strong&gt; by Sam Quinones&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;East West Street&lt;/strong&gt; by Phillipe Sands&lt;/p&gt;
+
+&lt;h3 id=&quot;the-fun-ones-3&quot;&gt;The Fun Ones&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The Precipice&lt;/strong&gt; by Toby Ord&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In Praise of Commercial Culture&lt;/strong&gt; by Tyler Cowen&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Aug 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/books/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/books/</guid>
         
         
       </item>
