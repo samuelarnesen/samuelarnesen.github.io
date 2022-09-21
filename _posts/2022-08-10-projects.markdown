@@ -39,3 +39,5 @@
 **[spycraft](https://github.com/samuelarnesen/board-games/tree/master/spycraft)** -- Spycraft is a pretty fun social deception party game that you can buy online. We wanted to play it in person with my extended family and to create our own cards so I coded up an extremely-simple version of it. 
 
 **[bgfw](https://github.com/samuelarnesen/board-games/tree/master/bgfw)** -- A relatively simple programming framework for building terminal-based board games. I used it to create the auction-based board game.
+
+**[nfl-pickem](https://github.com/samuelarnesen/nfl-pickem)** -- My friends and I are part of a small competition where we call one NFL matchup each week. The constraint is that (a) you have to call all the matchups at the beginning of the year (b) you cannot call the same winner twice and (c) you cannot call the same loser twice. I decided to optimize my choices this year by using Monte Carlo Tree Search.
