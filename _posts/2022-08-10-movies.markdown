@@ -1,4 +1,4 @@
-## Animated Films
+## Animated Films (15)
 Summit of the Gods (2021)
 
 Spiderman: Into the Spiderverse (2018)
@@ -29,7 +29,7 @@ Iron Giant (1999)
 
 My Neighbor Totoro (1988)
 
-## Blockbusters
+## Blockbusters (10)
 Top Gun: Maverick (2022)
 
 The Batman (2022)
@@ -50,16 +50,12 @@ Dark Knight (2008)
 
 Iron Man (2008)
 
-## Action Films
-Da 5 Bloods (2020)
-
+## Action Films (10)
 Ford v Ferrari (2019)
 
 Hell or High Water (2016)
 
 Mad Max: Fury Road (2015)
-
-Captain Phillips (2013)
 
 Argo (2012)
 
@@ -69,14 +65,20 @@ No Country For Old Men (2007)
 
 There Will Be Blood (2007)
 
+The Departed (2006)
+
+The Prestige (2006)
+
 Apollo 13 (1995)
 
-## Other
+## Other (10)
 Nine Days (2020)
 
 Death of Stalin (2017)
 
 Get Out (2017)
+
+Spotlight (2015)
 
 Big Short (2015)
 
@@ -89,4 +91,3 @@ Social Network (2010)
 Slumdog Millionaire (2008)
 
 Pan's Labyrinth (2006)
-
