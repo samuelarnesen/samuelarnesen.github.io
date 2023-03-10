@@ -1,17 +1,13 @@
-## Animated Films (15)
+These are the top ten films I've enjoyed, broken down by category.
+
+## Animated Films
 Summit of the Gods (2021)
 
 Spiderman: Into the Spiderverse (2018)
 
-Coco (2017)
-
 Zootopia (2016)
 
 Rango (2011)
-
-Tangled (2010)
-
-Fantastic Mr. Fox (2009)
 
 Ratatouille (2007)
 
@@ -23,13 +19,9 @@ Shrek (2001)
 
 Monster's Inc (2001)
 
-Spirited Away (2001)
-
 Iron Giant (1999)
 
-My Neighbor Totoro (1988)
-
-## Blockbusters (10)
+## Blockbusters
 Top Gun: Maverick (2022)
 
 The Batman (2022)
@@ -42,15 +34,15 @@ Captain America: The Winter Soldier (2014)
 
 Guardians of the Galaxy (2014)
 
-Dark Knight Rises (2012)
+The Dark Knight Rises (2012)
 
 Harry Potter and the Deathly Hallows: Part 2 (2011)
 
-Dark Knight (2008)
+The Dark Knight (2008)
 
 Iron Man (2008)
 
-## Action Films (10)
+## Action Films
 Ford v Ferrari (2019)
 
 Hell or High Water (2016)
@@ -71,7 +63,7 @@ The Prestige (2006)
 
 Apollo 13 (1995)
 
-## Other (10)
+## Other
 Nine Days (2020)
 
 Death of Stalin (2017)

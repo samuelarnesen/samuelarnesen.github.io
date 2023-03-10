@@ -1,4 +1,4 @@
-These are some of the books I've read in the last five years outside of school that I enjoyed and would recommend.
+These are some of the books I've read in the last few years, roughly ranked.
 
 ## Tier 1
 
@@ -10,11 +10,14 @@ These are some of the books I've read in the last five years outside of school t
 
 **Poor Economics** by Abhjiit Banerjee and Esther Duflo
 
+
 ---
+
 
 ## Tier 2
 
 ### Drier But More Informative
+
 **Career and Family** by Claudia Goldin
 
 **Locking Up Our Own** by James Forman
@@ -26,6 +29,7 @@ These are some of the books I've read in the last five years outside of school t
 **Locked In** by John Pfaff
 
 ### Informative And Easier To Read
+
 **No Good Men Among the Living** by Anand Gopal
 
 **Strangers in Their Own Land** by Arlie Russell Hochschild
@@ -34,19 +38,26 @@ These are some of the books I've read in the last five years outside of school t
 
 **Golden Gates** by Conor Dougherty
 
+**Public Citizens** by Paul Sabin
+
 ### The Fun Ones
+
 **Very Important People** by Ashley Mears
 
+
 ---
+
+
 ## Tier 3
 
 ### Drier But More Informative 
+
 **Development as Freedom** by Amartya Sen
 
 **The Innovator’s Dilemma** by Clayton Christianson
 
-
 ### Informative And Easier to Read
+
 **Ghettoside** by Jill Leovy
 
 **How Democracies Die** by Steven Levitsky and Daniel Ziblatt
@@ -65,7 +76,10 @@ These are some of the books I've read in the last five years outside of school t
 
 **The Family Firm** by Emily Oster
 
+**Chip Wars** by Chris Miller
+
 ### The Fun Ones
+
 **The Case Against Education** by Bryan Caplan
 
 **Don’t Trust Your Gut** by Seth Stephens-Davidowitz
@@ -78,10 +92,14 @@ These are some of the books I've read in the last five years outside of school t
 
 **Rockonomics** by Alan Krueger
 
+
 ---
+
+
 ## Tier 4
 
 ### Drier But More Informative 
+
 **The Innovators** by Walter Isaacson 
 
 **The Color of Law** by Richard Rothstein
@@ -94,8 +112,8 @@ These are some of the books I've read in the last five years outside of school t
 
 **The Gene** by Siddartha Murkherjee
 
-
 ### Informative And Easier to Read
+
 **An American Summer** by Alex Kotlowitz
 
 **The Great Successor** by Anna Fifeld
@@ -107,12 +125,19 @@ These are some of the books I've read in the last five years outside of school t
 **Of Boys and Men** by Richard Reeves
 
 ### The Fun Ones
+
 **The Only Rule Is That It Has To Work** by Ben Lindbergh and Sam Miller
+
+**Rap Capital** by Joe Coscarelli
+
+
+---
 
 
 ## Tier 5
 
 ### Drier But More Informative 
+
 **Fragile by Design** by Charles Calomiris and Stephen Haber
 
 **Portfolios of the Poor** by Daryl Collins et al
@@ -131,7 +156,10 @@ These are some of the books I've read in the last five years outside of school t
 
 **Amusing Ourselves to Death** by Neil Postman
 
+**Streets of Gold** by Leah Boustan and Ran Abramitsky
+
 ### Informative And Easier to Read
+
 **How to Avoid a Climate Disaster** by Bill Gates
 
 **The Genetic Lottery** by Paige Harden
@@ -145,10 +173,68 @@ These are some of the books I've read in the last five years outside of school t
 **Grilled** by Leah Garcès
 
 ### The Fun Ones
+
 **The Precipice** by Toby Ord
 
 **What We Owe the Future** by Will McAskill
 
 **In Praise of Commercial Culture** by Tyler Cowen
 
+**Strangers Drowning** by Larissa MacFarquhar
+
+**Seven Games** by Oliver Roeder
+
+
+---
+
+
+## Tier 6
+
+### Drier But More Informative 
+
+**Tyranny of Experts** by William Easterly
+
+**The Great Escape** by Angus Deaton
+
+**The Republic of Beliefs** by Kaushik Basu
+
+**Good Economics for Hard Times** by Abhijit Banerjee and Esther Duflo
+
+**Slouching Towards Utopia** by Brad DeLong
+
+**Amusing Ourselves to Death** by Neil Postman
+
+### Informative And Easier to Read
+
+**The Undoing Project** by Michael Lewis
+
+**Age of Ambition** by Evan Osnos
+
+**Janesville** by Amy Goldstein
+
+**There are No Dead Here** by Maria McFarland Sanchez-Moreno
+
+### The Fun Ones
+
+**Talent** by Tyler Cowen and Daniel Gross
+
+**The Metaverse** by Matthew Ball
+
+
+---
+
+
+## Tier 7
+
+### Drier But More Informative 
+
+**Quantum Computing Since Democritus** by Scott Aaronson
+
+### Informative And Easier to Read
+
+**An American Sickness** by Elizabeth Rosenthal
+
+### The Fun Ones
+
+**A Light in the Dark** by David Thompson
 
