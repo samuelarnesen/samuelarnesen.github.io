@@ -1,6 +1,8 @@
 ## ML
 
-**[poker-player](https://github.com/samuelarnesen/poker-player)** -- tried to teach myself the basics of graph neural networks by coding up a GNN-based classifier of Texas Hold'em hands and then tried to use that as the foundation of a poker playing AI agent. The classifier worked well but the playing mechanism very much did not.
+**[thesis](https://github.com/samuelarnesen/walkthrough-agent)** -- My undergraduate thesis was on whether we could finetune a language model to play text-based games such as Zork. Potentially, this could've been a toy case for the broader question of whether large language models could be improved via RL in the wild. I spent a really long time creating a dataset to train the agents but even then I think it was too small to get the agents to do much of interest (the pre-trained large language models did actually improve by training on other text-based games but my personal take is that was primarily because it did a better job of learning the relevant vocabulary). That said, I did learn an enormous amount about RL, large language models, and CS research in the process. Completed under advisor Prof. Karthik Narasimhan.
+
+**[poker-player](https://github.com/samuelarnesen/poker-player)** -- Built a GNN-based classifier of Texas Hold’em hands and then tried to use that as the foundation of a poker playing AI agent. The classifier worked well but the playing mechanism very much did not.”
 
 **[connect-four](https://github.com/samuelarnesen/board-games/tree/master/connect_four)** -- agent learns to play connect four by playing against itself from random starting positions. Can beat me every time but I've never tried it against someone who's any good. Also includes a nifty front-end built by Rohit Dilip
 
@@ -9,8 +11,6 @@
 **[gpu-practice](https://colab.research.google.com/drive/1HZi076im-6v35Y6XBqXpJQ6SN1Yay9Za#scrollTo=b64d4dbb)** -- taught myself the basics of Numba/GPU programming by completing a series of puzzles made by Prof. Sasha Rush. Technically this isn't ML but it fits this category the best.
 
 **[maximum-entropy-elections](https://github.com/samuelarnesen/into-the-wild)** -- inspired by a paper on using maximum entropy models to capture influence on the Supreme Court, we attempted to extend this to Senate voting records. We were able to replicate the Supreme Court analysis but the method 100% did not work for the Senate (you can't really capture influence networks when most members vote the same way almost every time). Done jointly with Rohit Dilip.
-
-**[thesis](https://github.com/samuelarnesen/walkthrough-agent)** -- My undergraduate thesis was on whether we could finetune a language model to play text-based games such as Zork. Potentially, this could've been a toy case for the broader question of whether large language models could be improved via RL in the wild. I spent a really long time creating a dataset to train the agents but even then I think it was too small to get the agents to do much of interest (the pre-trained large language models did actually improve by training on other text-based games but my personal take is that was primarily because it did a better job of learning the relevant vocabulary). That said, I did learn an enormous amount about RL, large language models, and CS research in the process. Completed under advisor Prof. Karthik Narasimhan.
 
 ## Data Analysis
 
