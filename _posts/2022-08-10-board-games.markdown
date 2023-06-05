@@ -13,7 +13,7 @@ Terraforming Mars
 Twilight Struggle
 
 
-# Somewhat Simpler Games
+## Somewhat Simpler Games
 
 Pandemic 
 
@@ -26,7 +26,7 @@ Seven Wonders
 Carcassonne
 
 
-# Traditional / Party Games
+## Traditional / Party Games
 
 Chess
 
