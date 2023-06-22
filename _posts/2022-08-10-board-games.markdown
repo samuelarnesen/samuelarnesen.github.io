@@ -4,11 +4,11 @@ These are the top five board games I've enjoyed the most over the last few years
 
 Scythe
 
-Power Grid
-
 Dune: Imperium
 
-Terraforming Mars
+Brass: Birmingham
+
+Power Grid
 
 Twilight Struggle
 

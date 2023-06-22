@@ -1,18 +1,26 @@
 ## Professional Experience
 
+
+### Hebbia AI ###
+
+**Software Engineer (2023)**
+
+* Worked on the core vector database interaction logic.
+* Built AWS integration to enable largest customers to on-board
+
 ### Amazon 
-**Software Development Engineer II (2022 - Present)**  
+
+**Software Development Engineer II (2022 - 2023)**  
 **Software Development Engineer I (2020 - 2022)**
 
-* Worked in the ads organization, optimizing the performance and extensibility of data pipelines and databases. 
-* Tech lead and designer of a high-throughput, distributed system built off of AWS Lambda, ECS, and Apache Kafka for guaranteeing the ordering of records with foreign key relationships within our data streaming pipeline. Allows ad serving, analytics, and 20+ other internal teams to gain access to in-order data within 2 seconds of an update.
-* Led the planning, design, and implementation of a year long project to rearchitect the persistence layer for all advertiser intent data to use a NoSQL data model built off AWS DynamoDB, AWS Lambda, and Elasticsearch. New system now stores 25 TB of data and processes 250 million operations/day worldwide.
+* Served as tech lead and designer of a massively-parallel, distributed system built with AWS Lambda, ECS, and Apache Kafka for guaranteeing the ordering of records within our data streaming pipeline. Allowed 20+ other internal teams to gain access to in-order data within 2 seconds of an update (down from 1 minute)
+* Led the planning, design, and implementation of a year-long project to re-architect and re-build the search and persistence layer for all advertiser intent data. New system now stores 25 TB of data, processes 250 million operations/day worldwide, and handles \$30b of ads per year.
 * Chief designer of both the ETL pipeline serving all of Amazon advertising data science and Amazon Marketing Stream. Implemented the data pipeline features for Twitch ads, Buy With Prime, and Non-Endemic Advertisers
 
 ### Amazon Web Services
 **Software Development Engineer Intern (2020 - 2020)**  
 
-* Developed tool for the automatic redaction of sensitive information for use in compliance control operations. Involved designing, implementing, and unit/integration testing a stack that incorporated AWS's CloudFormation, S3, SQS, CloudWatch, Rekognition, and Textract services.
+* Developed tool for the automatic redaction of sensitive information for compliance control operations. Involved the design and implementation of a stack that incorporated AWS's AI text and face recognition services.
 
 ---
 
