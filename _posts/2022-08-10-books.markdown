@@ -164,10 +164,6 @@ These are some of the books I've read in the last few years, roughly ranked.
 
 **The Mythical Man-Month** by Fred Brooks
 
-**The Right to Sex** by Amia Srinivasan
-
-**Amusing Ourselves to Death** by Neil Postman
-
 **Streets of Gold** by Leah Boustan and Ran Abramitsky
 
 ### Informative And Easier to Read
@@ -217,6 +213,8 @@ I probably wouldn't recommend any books lower than this, although many of them w
 **The Great Escape** by Angus Deaton
 
 **The Republic of Beliefs** by Kaushik Basu
+
+**The Right to Sex** by Amia Srinivasan
 
 **Good Economics for Hard Times** by Abhijit Banerjee and Esther Duflo
 
