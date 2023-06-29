@@ -56,7 +56,7 @@
 * Linear Algebra
 * Probability and Stochastic Systems
 * Accessibility Design (Independent Work)
-* Computer Vision (Indepdent Work)
+* Computer Vision (Independent Work)
 
 ### Economics
 
