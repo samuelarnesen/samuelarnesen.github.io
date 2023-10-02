@@ -62,6 +62,8 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **The Innovator’s Dilemma** by Clayton Christianson
 
+**Polio: An American Story** by David Oshinsky
+
 ### Informative And Easier to Read
 
 **Ghettoside** by Jill Leovy
@@ -98,6 +100,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **Rockonomics** by Alan Krueger
 
+**How Music Got Free** by Stephen Witt
 
 ---
 
@@ -119,6 +122,8 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 **The Gene** by Siddartha Murkherjee
 
 **The Wizard and the Prophet** by Charles Mann
+
+**God: A Biography** by Jack Miles
 
 ### Informative And Easier to Read
 
@@ -143,6 +148,8 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 **Mountains Beyond Mountains** by Tracy Kidder
 
 **The Killers of the Flower Moon** by David Grann
+
+**The Making of the Prince of Persia** by Jordan Mechner
 
 
 ---
@@ -172,6 +179,10 @@ I probably wouldn't recommend any books lower than this, although many of them w
 **The Mythical Man-Month** by Fred Brooks
 
 **Streets of Gold** by Leah Boustan and Ran Abramitsky
+
+**Embracing Defeat: Japan in the Wake of World War II** by John Dowers
+
+**The Art of Doing Science and Engineering** by Richard Hamming
 
 ### Informative And Easier to Read
 
@@ -203,6 +214,7 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 **Because Internet** by Gretchen McCulloch
 
+**Close to the Machine** by Ellen Ullman
 
 
 ---
@@ -235,6 +247,8 @@ I probably wouldn't recommend any books lower than this, although many of them w
 **Janesville** by Amy Goldstein
 
 **There are No Dead Here** by Maria McFarland Sanchez-Moreno
+
+**Working in Public** by Nadia Eghbal
 
 ### The Fun Ones
 
