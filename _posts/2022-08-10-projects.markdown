@@ -1,5 +1,7 @@
 ## ML
 
+**[AI Safety via Debate](https://github.com/samuelarnesen/nyu-debate-modeling)** -- This is the current effort I am working on as part of my work at NYU's Alignment Research Group. Check back later for a complete writeup and/or paper.
+
 **[thesis](https://github.com/samuelarnesen/walkthrough-agent)** -- My undergraduate thesis was on whether we could finetune a language model to play text-based games such as Zork. Potentially, this could've been a toy case for the broader question of whether large language models could be improved via RL in the wild. I spent a really long time creating a dataset to train the agents but even then I think it was too small to get the agents to do much of interest (the pre-trained large language models did actually improve by training on other text-based games but my personal take is that was primarily because it did a better job of learning the relevant vocabulary). That said, I did learn an enormous amount about RL, large language models, and CS research in the process. Completed under advisor Prof. Karthik Narasimhan.
 
 **[poker-player](https://github.com/samuelarnesen/poker-player)** -- Built a GNN-based classifier of Texas Hold’em hands and then tried to use that as the foundation of a poker playing AI agent. The classifier worked well but the playing mechanism very much did not.

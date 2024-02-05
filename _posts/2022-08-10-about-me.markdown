@@ -1,5 +1,5 @@
-Hi! I'm a NYC-based Software Engineer. For three years, I was a Software Engineer at Amazon, where I worked on improving the performance and extensibility of the core infrastructure in the advertising division. Before that, I was a computer science major at Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games. 
+Hi! I'm a NYC-based Research Engineer, operating out NYU's Alignment Research Group under Prof. Sam Bowman and Julian Michael. For three years, I was a Software Engineer at Amazon, where I worked on improving the performance and extensibility of the core infrastructure in the advertising division. Before that, I was a computer science major at Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games. 
 
 I also competed in debate, where I was the runner-up at the World Universities Debating Championship, top individual debater at the collegiate North American Debating Championship, and two-time high school national champion. 
 
-My interests include trivia, board games, and playing basketball (poorly). I'm originally from Chicago and Bethesda (MD), but I currently live in New York City.
+My interests include trivia, board games, reading, and playing basketball (poorly). I'm originally from Chicago and Bethesda (MD), but I currently live in New York City.
