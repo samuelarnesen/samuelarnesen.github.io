@@ -16,7 +16,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 ## Tier 2
 
-### Drier But More Informative
+_Drier but more informative_
 
 **Career and Family** by Claudia Goldin
 
@@ -32,7 +32,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **The Making of the Atomic Bomb** by Richard Rhodes
 
-### Informative And Easier To Read
+*_Informative and easier to read_*
 
 **No Good Men Among the Living** by Anand Gopal
 
@@ -46,7 +46,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **The Soul of a New Machine** by Tracy Kidder
 
-### The Fun Ones
+*_The Fun Ones_*
 
 **Very Important People** by Ashley Mears
 
@@ -56,7 +56,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 ## Tier 3
 
-### Drier But More Informative 
+_Drier but more informative_
 
 **Development as Freedom** by Amartya Sen
 
@@ -66,7 +66,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **The Metaphysical Club** by Louis Menand
 
-### Informative And Easier to Read
+*_Informative and easier to read_*
 
 **Ghettoside** by Jill Leovy
 
@@ -88,7 +88,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **Chip Wars** by Chris Miller
 
-### The Fun Ones
+*_The Fun Ones_*
 
 **The Case Against Education** by Bryan Caplan
 
@@ -113,7 +113,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 ## Tier 4
 
-### Drier But More Informative 
+_Drier but more informative_
 
 **The Innovators** by Walter Isaacson 
 
@@ -133,7 +133,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **Time of the Magicians** by Wolfram Eilenberger
 
-### Informative And Easier to Read
+*_Informative and easier to read_*
 
 **An American Summer** by Alex Kotlowitz
 
@@ -145,7 +145,7 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 
 **Of Boys and Men** by Richard Reeves
 
-### The Fun Ones
+*_The Fun Ones_*
 
 **The Only Rule Is That It Has To Work** by Ben Lindbergh and Sam Miller
 
@@ -173,7 +173,7 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 ## Tier 5
 
-### Drier But More Informative 
+**_Drier but more informative_**
 
 **Fragile by Design** by Charles Calomiris and Stephen Haber
 
@@ -199,7 +199,7 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 **The Two Parent Privilege** by Melissa Kearney
 
-### Informative And Easier to Read
+*_Informative and easier to read_*
 
 **How to Avoid a Climate Disaster** by Bill Gates
 
@@ -215,7 +215,7 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 **The Right** by Matthew Continetti
 
-### The Fun Ones
+*_The Fun Ones_*
 
 **The Precipice** by Toby Ord
 
@@ -237,7 +237,7 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 ## Tier 6
 
-### Drier But More Informative 
+_Drier but more informative_
 
 **Tyranny of Experts** by William Easterly
 
@@ -253,7 +253,7 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 **Amusing Ourselves to Death** by Neil Postman
 
-### Informative And Easier to Read
+*_Informative and easier to read_*
 
 **The Undoing Project** by Michael Lewis
 
@@ -267,7 +267,7 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 **Turing's Cathedral** by George Dyson
 
-### The Fun Ones
+*_The Fun Ones_*
 
 **Talent** by Tyler Cowen and Daniel Gross
 
@@ -281,15 +281,15 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 ## Tier 7
 
-### Drier But More Informative 
+_Drier but more informative_
 
 **Quantum Computing Since Democritus** by Scott Aaronson
 
-### Informative And Easier to Read
+*_Informative and easier to read_*
 
 **An American Sickness** by Elizabeth Rosenthal
 
-### The Fun Ones
+*_The Fun Ones_*
 
 **A Light in the Dark** by David Thompson
 
