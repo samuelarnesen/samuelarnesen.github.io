@@ -1,12 +1,11 @@
 ## Professional Experience
 
+### Alignment Research Group, NYU ###
 
-### Hebbia AI ###
+**Research Engineer (2023 - 2024 )**
 
-**Software Engineer (2023)**
-
-* Worked on the core vector database interaction logic.
-* Built AWS integration to enable largest customers to on-board
+* Sole engineer working on the lab's AI Safety via Debate research agenda
+* Currently working on training open-source models to debate via supervised finetuning, PPO, and DPO. The training and experiment suite is open-sourced for other researchers and can be found [here](https://github.com/samuelarnesen/nyu-debate-modeling}{https://github.com/samuelarnesen/nyu-debate-modeling).
 
 ### Amazon 
 
