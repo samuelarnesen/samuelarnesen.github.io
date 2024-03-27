@@ -3,11 +3,8 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 ## Tier 1
 
 **The Second Shift** by Arlie Russel Hochschild
-
 **Being Mortal** by Atul Gawande
-
 **Evicted** by Matthew Desmond
-
 **Poor Economics** by Abhjiit Banerjee and Esther Duflo
 
 
@@ -19,37 +16,25 @@ These are some of the nonfiction books I've read in the last few years, roughly 
 _Drier but more informative_
 
 **Career and Family** by Claudia Goldin
-
 **Locking Up Our Own** by James Forman
-
 **Democracy and Distrust** by John Hart Ely
-
 **The Rise and Fall of American Growth** by Robert Gordon
-
 **Locked In** by John Pfaff
-
 **The Dream Machine** by M. Mitchell Waldrop
-
 **The Making of the Atomic Bomb** by Richard Rhodes
 
 _Informative and easier to read_
 
 **No Good Men Among the Living** by Anand Gopal
-
 **Strangers in Their Own Land** by Arlie Russell Hochschild
-
 **Into the Hands of the Soldiers** by David Kirkpatrick
-
 **Golden Gates** by Conor Dougherty
-
 **Public Citizens** by Paul Sabin
-
 **The Soul of a New Machine** by Tracy Kidder
 
 _The Fun Ones_
 
 **Very Important People** by Ashley Mears
-
 
 ---
 
@@ -59,53 +44,33 @@ _The Fun Ones_
 _Drier but more informative_
 
 **Development as Freedom** by Amartya Sen
-
 **The Innovator’s Dilemma** by Clayton Christianson
-
 **Polio: An American Story** by David Oshinsky
-
 **The Metaphysical Club** by Louis Menand
 
 _Informative and easier to read_
 
 **Ghettoside** by Jill Leovy
-
 **How Democracies Die** by Steven Levitsky and Daniel Ziblatt
-
 **Brotopia** by Emily Chang
-
 **Bad Blood** by John Carreyrou
-
 **Superforecasting** by Philip Tetlock and Dan Gardner
-
 **The Everything Store** by Brad Stone
-
 **Say Nothing** by Patrick Radden Keefe
-
 **The Alignment Problem** by Brian Christian
-
 **The Family Firm** by Emily Oster
-
 **Chip Wars** by Chris Miller
 
 _The Fun Ones_
 
 **The Case Against Education** by Bryan Caplan
-
 **Don’t Trust Your Gut** by Seth Stephens-Davidowitz
-
 **Everybody Lies** by Seth Stephens-Davidowitz
-
 **The MVP Machine** by Ben Lindbergh and Travis Sawchik
-
 **The Biggest Bluff** by Maria Konnikova 
-
 **Rockonomics** by Alan Krueger
-
 **How Music Got Free** by Stephen Witt
-
 **A Man on the Moon** by Andrew Chaikin
-
 **MCU** by Joanna Robinson, Dave Gonzalez, and Gavin Edwards
 
 ---
@@ -116,52 +81,75 @@ _The Fun Ones_
 _Drier but more informative_
 
 **The Innovators** by Walter Isaacson 
-
 **The Color of Law** by Richard Rothstein
-
 **The Structure of Scientific Revolutions** by Thomas Kuhn
-
 **The Box** by Marc Levinson
-
 **Killing a King** by Dan Ephron
-
 **The Gene** by Siddartha Murkherjee
-
 **The Wizard and the Prophet** by Charles Mann
-
 **Parfit** by David Edmonds
-
 **Time of the Magicians** by Wolfram Eilenberger
 
 _Informative and easier to read_
 
 **An American Summer** by Alex Kotlowitz
-
 **The Great Successor** by Anna Fifeld
-
 **Priced Out** by Uwe Reinhardt
-
 **Behind the Beautiful Forevers** by Katherine Boo
-
 **Of Boys and Men** by Richard Reeves
+**The Maniac** by Benjamin Labatut
 
 _The Fun Ones_
 
 **The Only Rule Is That It Has To Work** by Ben Lindbergh and Sam Miller
-
 **Rap Capital** by Joe Coscarelli
-
 **An Immense World** by Ed Yong
-
 **Mountains Beyond Mountains** by Tracy Kidder
-
 **The Killers of the Flower Moon** by David Grann
-
 **The Making of the Prince of Persia** by Jordan Mechner
-
 **Going Infinite** by Michael Lewis
+**Consider the Lobster** by David Foster Wallace
 
-**The Maniac** by Benjamin Labatut
+
+---
+
+## Tier 5
+
+_Drier but more informative_
+
+**Fragile by Design** by Charles Calomiris and Stephen Haber
+**Portfolios of the Poor** by Daryl Collins et al
+**What is Islam?** by Shahab Ahmed
+**We the Corporations** by Adam Winkler
+**Capitalism without Capital** by Jonathan Haskel and Stian Westlake
+**Death and Life of Great American Cities** by Jane Jacobs
+**The Mythical Man-Month** by Fred Brooks
+**Streets of Gold** by Leah Boustan and Ran Abramitsky
+**Embracing Defeat: Japan in the Wake of World War II** by John Dowers
+**God: A Biography** by Jack Miles
+**The Art of Doing Science and Engineering** by Richard Hamming
+**The Two Parent Privilege** by Melissa Kearney
+
+_Informative and easier to read_
+
+**How to Avoid a Climate Disaster** by Bill Gates
+**The Genetic Lottery** by Paige Harden
+**Catastrophic Care** by David Goldhill
+**Dreamland** by Sam Quinones
+**East West Street** by Phillipe Sands
+**Grilled** by Leah Garcès
+**The Right** by Matthew Continetti
+
+_The Fun Ones_
+
+**The Precipice** by Toby Ord
+**What We Owe the Future** by Will McAskill
+**In Praise of Commercial Culture** by Tyler Cowen
+**Strangers Drowning** by Larissa MacFarquhar
+**Seven Games** by Oliver Roeder
+**Because Internet** by Gretchen McCulloch
+**Close to the Machine** by Ellen Ullman
+**Eating Animals** by Jonathan Safran Foer
 
 ---
 
@@ -171,108 +159,32 @@ I probably wouldn't recommend any books lower than this, although many of them w
 
 
 
-## Tier 5
-
-*_Drier but more informative_*
-
-**Fragile by Design** by Charles Calomiris and Stephen Haber
-
-**Portfolios of the Poor** by Daryl Collins et al
-
-**What is Islam?** by Shahab Ahmed
-
-**We the Corporations** by Adam Winkler
-
-**Capitalism without Capital** by Jonathan Haskel and Stian Westlake
-
-**Death and Life of Great American Cities** by Jane Jacobs
-
-**The Mythical Man-Month** by Fred Brooks
-
-**Streets of Gold** by Leah Boustan and Ran Abramitsky
-
-**Embracing Defeat: Japan in the Wake of World War II** by John Dowers
-
-**God: A Biography** by Jack Miles
-
-**The Art of Doing Science and Engineering** by Richard Hamming
-
-**The Two Parent Privilege** by Melissa Kearney
-
-_Informative and easier to read_
-
-**How to Avoid a Climate Disaster** by Bill Gates
-
-**The Genetic Lottery** by Paige Harden
-
-**Catastrophic Care** by David Goldhill
-
-**Dreamland** by Sam Quinones
-
-**East West Street** by Phillipe Sands
-
-**Grilled** by Leah Garcès
-
-**The Right** by Matthew Continetti
-
-_The Fun Ones_
-
-**The Precipice** by Toby Ord
-
-**What We Owe the Future** by Will McAskill
-
-**In Praise of Commercial Culture** by Tyler Cowen
-
-**Strangers Drowning** by Larissa MacFarquhar
-
-**Seven Games** by Oliver Roeder
-
-**Because Internet** by Gretchen McCulloch
-
-**Close to the Machine** by Ellen Ullman
-
-
----
-
-
 ## Tier 6
 
 _Drier but more informative_
 
 **Tyranny of Experts** by William Easterly
-
 **The Great Escape** by Angus Deaton
-
 **The Republic of Beliefs** by Kaushik Basu
-
 **The Right to Sex** by Amia Srinivasan
-
 **Good Economics for Hard Times** by Abhijit Banerjee and Esther Duflo
-
 **Slouching Towards Utopia** by Brad DeLong
-
 **Amusing Ourselves to Death** by Neil Postman
 
 _Informative and easier to read_
 
 **The Undoing Project** by Michael Lewis
-
 **Age of Ambition** by Evan Osnos
-
 **Janesville** by Amy Goldstein
-
 **There are No Dead Here** by Maria McFarland Sanchez-Moreno
-
 **Working in Public** by Nadia Eghbal
-
 **Turing's Cathedral** by George Dyson
+**The Beginning of Infinity** by David Deutsch
 
 _The Fun Ones_
 
 **Talent** by Tyler Cowen and Daniel Gross
-
 **The Metaverse** by Matthew Ball
-
 **When We Cease to Understand the World** by Benjamin Labatut
 
 
