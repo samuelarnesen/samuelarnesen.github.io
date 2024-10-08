@@ -12,9 +12,6 @@ I am a Research Engineer in the Alignment Research Group at NYU's Center for Dat
 <br/>
 <br/>
 I also competed in debate, where I was the runner-up at the World Universities Debating Championship, top individual debater at the collegiate North American Debating Championship, and two-time high school national champion.
-<br/>
-<br/>
-My interests include trivia, board games, reading, and playing basketball (poorly). I'm originally from Chicago and Bethesda (MD), but I currently live in New York City.
 </p>
 
 # Publications
