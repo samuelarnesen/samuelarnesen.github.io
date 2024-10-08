@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        ul.horizontal-list {
+            list-style-type: none; /* Removes the bullet points */
+            padding: 0;
+            margin: 0;
+        }
+
+        ul.horizontal-list li {
+            display: inline; /* Display list items inline */
+            margin-right: 10px; /* Adds some spacing between items */
+        }
+    </style>
+</head>
+<body>
+
+<ul class="horizontal-list">
+  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">github</span></a></li>{%- endif -%}
+  {%- if site.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">linkedin</span></a></li>{%- endif -%}
+  {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">twitter</span></a></li>{%- endif -%}
+  {%- if site.youtube_username -%}<li><a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{%- endif -%}
+  {%- if site.letterboxd_username -%}<li><a href="https://letterboxd.com/{{ site.letterboxd_username| escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons/icon-letterboxd.svg#icon-letterboxd' | relative_url }}"></use></svg> <span class="username">letterboxd</span></a></li>{%- endif -%}
+  {%- if site.goodreads_username -%}<li><a href="https://www.goodreads.com/review/list/101024306-samuel-arnesen?order=d&shelf=read&sort=date_read"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons/icon-goodreads.svg#icon-goodreads' | relative_url }}"></use></svg> <span class="username">goodreads</span></a></li>{%- endif -%}
+</ul>
+

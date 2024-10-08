@@ -1,20 +1,12 @@
 # Site settings
-title: 'Samuel Arnesen'
-description: "Software Engineer"
+title: Samuel Arnesen
 url: ''
-#baseurl: '/jekyll-uno-remote-theme-demo'
 baseurl: ''
 
+theme: minima
 
-remote_theme: matthiaslischka/jekyll-uno
-
-author:
-  name: 'Samuel Arnesen'
-  email: 'samuel.p.arnesen@gmail.com'
-  #twitter_username: 
-  #facebook_username: 
-  github_username: samuelarnesen
-  linkedin_username:  samuel-arnesen
+author: Samuel Arnesen
+email: samuel.p.arnesen@gmail.com
 
 defaults:
   -
@@ -28,9 +20,14 @@ defaults:
 future: true
 destination: _site
 paginate: 10
-permalink: /:year/:title/
+permalink: /:title/
 markdown: kramdown
 highlighter: rouge
+
+github_username: samuelarnesen
+linkedin_username: samuel-arnesen
+letterboxd_username: sparnesen
+goodreads_username: samarnesen
 
 sass:
     sass_dir: _sass
