@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Silly Knowledge Question</title>
+    <style>
+        body {
+            font-family: 'FreeMono', monospace;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: rgba(189, 183, 107, 0.05);
+        }
+        .puzzle-container {
+            margin:: auto;
+        }
+        .question-box {
+            background-color: rgba(189, 183, 107, 0.67);
+            color: black;
+            padding: 20px;
+            margin: 20px auto;
+            width: 50%;
+            border: 1px solid #000;
+            box-sizing: border-box;
+            border-radius: 10px;
+            text-align: left;
+        }
+        .input-box {
+            font-family: 'FreeMono', monospace;
+            display: block;
+            margin: 10px auto;
+            width: 50%;
+            padding: 10px;
+            box-sizing: border-box;
+            margin: 20px auto;
+            border-radius: 10px;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 10px;
+        }
+        #answer {
+            margin-top: 20px;
+            font-weight: bold;
+            text-align: left;
+        }
+        #previousQuestions {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h3 style="text-align: center; margin-top: 20px;">Daily Silly Knowledge Question</h2>
+    </header>
+
+    <div id="puzzle-page" class="puzzle-container">
+        <p>Today's Question: <span id="current-date"></span></p>
+        <div class="question-box" id="question-box"></div>
+        <div id="input-fields">
+            <!-- Text input fields will be generated here dynamically -->
+        </div>
+        <button id="submit-button">Submit</button>
+        <div id="num-correct"></div>
+        <div id="answer"></div>
+        <a href="#" id="previousQuestionsLink">Previous Questions</a>
+    </div>
+
+    <div id="previousQuestions"></div>
+
+    <script>
+        
+
+        const questions = {
+            '10/8/2024': {
+                "question": 'As of the start of 2024, there are 12 cities that have had over one billion cumulative person-years lived in them.  Name them.\n\nHint: To ground your guess, note that Shanghai, Sao Paolo, Cairo, Baghdad, Buenos Aires, and Kolkata just miss the list. Due to the wide range of population estimates, Xi’an / Chang’an is also excluded.',
+                "answers": ["Beijing", "Tokyo", "New York City", "Nanjing", "Hangzhou", "London", "Paris", "Osaka", "Mexico City", "Istanbul", "Guangzhou", "Rome"]
+            },
+            '10/9/2024': {
+                "question": 'What is the most recent Presidential Election Year in which it would be possible to drive from the West Coast of the United States to the East Coast and only pass through states won by a single party?',
+                "answers": ["1988"]
+            },
+        };
+
+        function updateQuestion(newDate) {
+            const dateElement = document.getElementById('current-date');
+            if (newDate) {
+                dateElement.textContent = new Date(newDate).toLocaleDateString();
+            } else {
+                const currentDate = new Date().toLocaleDateString();
+                dateElement.textContent = currentDate;
+            }
+            renderQuestion()
+        }
+
+        function changeDate(newDate) {
+            updateQuestion(newDate);
+            document.getElementById("submit-button").disabled = false;
+        }
+
+        function getCurrentDate() {
+            return document.getElementById('current-date').textContent;
+        }
+
+        function clearDiv(divElement) {
+            while (divElement.firstChild) {
+                divElement.removeChild(divElement.firstChild);
+            }
+        }
+
+        function renderQuestion() {
+            const currentDate = getCurrentDate()
+            const questionBox = document.getElementById("question-box");
+            const todayQuestion = questions[currentDate]["question"];
+            questionBox.innerText = todayQuestion;
+
+            const numberOfInputs = questions[currentDate]["answers"].length 
+            const inputFieldsDiv = document.getElementById("input-fields");
+
+            clearDiv(inputFieldsDiv);
+            clearDiv(document.getElementById("answer"));
+            clearDiv(document.getElementById("num-correct"))
+
+            for (let i = 0; i < numberOfInputs; i++) {
+                const input = document.createElement("input");
+                input.type = "text";
+                input.className = "input-box";
+                inputFieldsDiv.appendChild(input);
+            }
+        }
+
+        function renderPreviousQuestions() {
+            const listElement = document.getElementById("previousQuestions");
+            clearDiv(listElement);
+
+            Object.keys(questions).forEach((date) => {
+                const individualDate = document.createElement("a");
+                individualDate.textContent = date;
+                individualDate.href = "javascript:void(0);";
+                individualDate.onclick = function() {
+                    document.getElementById('previousQuestions').style.display = 'none';
+                    document.getElementById('puzzle-page').style.display = 'block';
+                    changeDate(date);
+                }
+
+                const divElement = document.createElement("div");
+                divElement.appendChild(individualDate);
+                listElement.appendChild(divElement);
+            });
+        }
+
+        function submitFunction() {
+            const currentDate = getCurrentDate()
+            document.getElementById("submit-button").disabled = true;
+            const inputs = document.querySelectorAll(".input-box");
+            inputs.forEach(input => input.disabled = true);  // Locking inputs after submission
+
+            // Reveal the answer
+            const answerDiv = document.getElementById("answer");
+
+            var numCorrect = 0;
+            var total = 0;
+            questions[currentDate]["answers"].forEach((item, index) => {
+                const answerBox = document.createElement("div");
+                answerBox.className = "input-box";
+                answerBox.style.borderRadius = '10px';
+                answerBox.style.padding = '10px';
+                answerBox.style.margin = '10px auto';
+                answerBox.innerText = `${index + 1}. ${item}`;
+
+                const isCorrect = Array.from(inputs).some(input => input.value.trim().toLowerCase() === item.toLowerCase());
+                answerBox.style.backgroundColor = isCorrect ? "rgba(143, 188, 143, 0.67)" : "rgb(205, 92, 92, 0.67)";
+                answerDiv.appendChild(answerBox);
+                numCorrect = numCorrect + (isCorrect ? 1 : 0);
+                total = total + 1;
+            });
+
+            const numCorrectElement = document.createElement("h3");
+            numCorrectElement.textContent = `You got ${numCorrect} / ${total} correct`;
+            document.getElementById("num-correct").appendChild(numCorrectElement);
+
+            const inputFieldsDiv = document.getElementById("input-fields");
+            for (let i = 0; i < inputFieldsDiv.children.length; i++) {
+                const isCorrect = questions[currentDate]["answers"].some(answer => inputFieldsDiv.children[i].value.trim().toLowerCase() === answer.trim().toLowerCase());
+                inputFieldsDiv.children[i].style.backgroundColor = isCorrect ? "rgba(143, 188, 143, 0.33)" : "rgb(205, 92, 92, 0.33)";
+            }
+        }
+
+        function addPreviousQuestionListener() {
+            document.getElementById('previousQuestionsLink').addEventListener('click', function(event) {
+                event.preventDefault();
+                document.getElementById('puzzle-page').style.display = 'none';
+                document.getElementById('previousQuestions').style.display = 'block';
+                renderPreviousQuestions();
+            });
+        }
+
+        function addSubmitButtonListener() {
+            document.getElementById("submit-button").addEventListener("click", submitFunction);
+        }
+
+        window.onload = function() {
+            updateQuestion();
+        };
+
+        addPreviousQuestionListener();
+        addSubmitButtonListener();
+
+    </script>
+    <br></br>
+    <footer>
+        <p style="font-size: smaller;">
+            Questions by <a href="https://samuelarnesen.github.io" target="_blank">Samuel Arnesen</a>, <a href="https://www.linkedin.com/in/william-arnesen-667071187/" target="_blank">William Arnesen</a>, and <a href="https://rohitdilip.com/" target="_blank">Rohit Dilip</a>
+        </p>
+    </footer>
+</body>
+</html>
