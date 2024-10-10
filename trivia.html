@@ -87,6 +87,24 @@
                 "question": 'Name the six elements of the periodic table that begin a song title that has more than 500 million streams on Spotify.\n\nHint: The first answer off the list is \"Neon\", since \"Neon Moon\" by Brooks & Dunn has 311 million streams.',
                 "answers": ["Titanium", "Gold", "Krypton", "Tin", "Chlorine", "Iron"],
                 "annotations": ["Titanium by David Guetta & Sia, 1,734m", "Gold Digger by Kanye West & Jamie Foxx, 1,219m", "Kryptonite by 3 Doors Down, 993m", "Tiny Dancer by Elton John, 792m", "Chlorine by Twenty One Pilots, 540m", "Iron Man by Black Sabbath, 508m"]
+            },
+            "10/11/2024": {
+                "question": "Besides Joe Biden, name the 10 other people have received at least 100 million general election votes for federal office cumulatively across their career.\n\nClarification: “Federal office” includes the House, Senate, Vice Presidency, and Presidency.",
+                "answers": ["George H. W. Bush", "Richard Nixon", "Al Gore", "Barack Obama", "Mike Pence", "Donald Trump", "Walter Mondale", "Dick Cheney", "Franklin D. Roosevelt", "George W. Bush"],
+                "annotations": ["186m", "183m", "145m", "139m", "138m", "137m", "114m", "113m", "113m", "112m"]
+            },
+            "10/12/2024": {
+                "question": "Name all 6 cities in U.S. History that has been top 5 in population but never top 3",
+                "answers": ["Charleston", "St. Louis", "Cleveland", "Detroit", "Houston", "Phoenix"],
+                "annotations": ["1810", "1910", "1920", "1970", "Houston", "Phoenix"]
+            },
+            "10/13/2024": {
+                "question": "Name the four countries that have had 3+ female non-interim chief executives since 1939.",
+                "answers": ["Finland", "Moldova", "New Zealand", "United Kingdom"],
+            },
+            "10/14/2024": {
+                "question": "Besides the United States, name the four countries that have both wild gray wolves and monarch butterflies.\n\nClarification: To count as \"having wolves\", the country must have a wild population of at least 150 members of the canis lupus species in 2024.",
+                "answers": ["Canada", "Spain", "Portugal", "Australia"]
             }
         };
 
@@ -138,7 +156,7 @@
         }
 
         function renderPreviousQuestions() {
-            const currentDate = getCurrentDate();
+            const currentDate = new Date().toLocaleDateString();
             const listElement = document.getElementById("previousQuestions");
             clearDiv(listElement);
 

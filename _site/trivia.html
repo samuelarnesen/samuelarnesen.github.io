@@ -83,6 +83,11 @@
                 "question": 'What is the most recent Presidential Election Year in which it would be possible to drive from the West Coast of the United States to the East Coast and only pass through states won by a single party?',
                 "answers": ["1988"]
             },
+            '10/10/2024': {
+                "question": 'Name the six elements of the periodic table that begin a song title that has more than 500 million streams on Spotify.\n\nHint: The first answer off the list is \"Neon\", since \"Neon Moon\" by Brooks & Dunn has 311 million streams.',
+                "answers": ["Titanium", "Gold", "Krypton", "Tin", "Chlorine", "Iron"],
+                "annotations": ["Titanium by David Guetta & Sia, 1,734m", "Gold Digger by Kanye West & Jamie Foxx, 1,219m", "Kryptonite by 3 Doors Down, 993m", "Tiny Dancer by Elton John, 792m", "Chlorine by Twenty One Pilots, 540m", "Iron Man by Black Sabbath, 508m"]
+            },
         };
 
         function updateQuestion(newDate) {
@@ -133,22 +138,25 @@
         }
 
         function renderPreviousQuestions() {
+            const currentDate = new Date().toLocaleDateString();
             const listElement = document.getElementById("previousQuestions");
             clearDiv(listElement);
 
             Object.keys(questions).forEach((date) => {
-                const individualDate = document.createElement("a");
-                individualDate.textContent = date;
-                individualDate.href = "javascript:void(0);";
-                individualDate.onclick = function() {
-                    document.getElementById('previousQuestions').style.display = 'none';
-                    document.getElementById('puzzle-page').style.display = 'block';
-                    changeDate(date);
-                }
+                if (new Date(date) <= new Date(currentDate)) {
+                    const individualDate = document.createElement("a");
+                    individualDate.textContent = date;
+                    individualDate.href = "javascript:void(0);";
+                    individualDate.onclick = function() {
+                        document.getElementById('previousQuestions').style.display = 'none';
+                        document.getElementById('puzzle-page').style.display = 'block';
+                        changeDate(date);
+                    }
 
-                const divElement = document.createElement("div");
-                divElement.appendChild(individualDate);
-                listElement.appendChild(divElement);
+                    const divElement = document.createElement("div");
+                    divElement.appendChild(individualDate);
+                    listElement.appendChild(divElement);
+                }
             });
         }
 
@@ -170,6 +178,10 @@
                 answerBox.style.padding = '10px';
                 answerBox.style.margin = '10px auto';
                 answerBox.innerText = `${index + 1}. ${item}`;
+
+                if ("annotations" in questions[currentDate] && questions[currentDate]["annotations"].length > 0) {
+                    answerBox.innerText = answerBox.innerText + " (" + questions[currentDate]["annotations"][index] + ")";
+                }
 
                 const isCorrect = Array.from(inputs).some(input => input.value.trim().toLowerCase() === item.toLowerCase());
                 answerBox.style.backgroundColor = isCorrect ? "rgba(143, 188, 143, 0.67)" : "rgb(205, 92, 92, 0.67)";
