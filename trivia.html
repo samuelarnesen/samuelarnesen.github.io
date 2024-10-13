@@ -89,7 +89,7 @@
                 "annotations": ["Titanium by David Guetta & Sia, 1,734m", "Gold Digger by Kanye West & Jamie Foxx, 1,219m", "Kryptonite by 3 Doors Down, 993m", "Tiny Dancer by Elton John, 792m", "Chlorine by Twenty One Pilots, 540m", "Iron Man by Black Sabbath, 508m"]
             },
             "10/11/2024": {
-                "question": "Besides Joe Biden, name the 10 other people have received at least 100 million general election votes for federal office cumulatively across their career.\n\nClarification: “Federal office” includes the House, Senate, Vice Presidency, and Presidency. Include first name and last name -- only include middle initial(s) if it is necessary to disambiguate from another person.",
+                "question": "Besides Joe Biden, name the 10 other people have received at least 100 million general election votes for federal office cumulatively across their career.\n\nClarification: “Federal office” includes the House, Senate, Vice Presidency, and Presidency.\n\nPlease write first name and last name -- only include middle initial(s) if it is necessary to disambiguate from another person.",
                 "answers": ["George H. W. Bush", "Richard Nixon", "Al Gore", "Barack Obama", "Mike Pence", "Donald Trump", "Walter Mondale", "Dick Cheney", "Franklin Roosevelt", "George W. Bush"],
                 "annotations": ["186m", "183m", "145m", "139m", "138m", "137m", "114m", "113m", "113m", "112m"],
                 "alternates": [["George H. Bush", "Bush 1", "George Herbert Walker Bush"], ["Richard M. Nixon", "Nixon"], ["Albert Gore", "Gore"], ["Barack H. Obama", "Obama"], ["Michael Pence", "Pence", "Michael R. Pence", "Mike R. Pence"], ["Donald J. Trump", "Trump"], ["Walter F. Mondale", "Mondale"], ["Richard Cheney", "Cheney", "Richard B. Cheney", "Dick B. Cheney"], ["Franklin D. Roosevelt", "FDR", "Franklin Delano Roosevelt"], ["Bush 2", "George Walker Bush"]]
@@ -106,8 +106,19 @@
             "10/14/2024": {
                 "question": "Besides the United States, name the four countries that have both wild gray wolves and monarch butterflies.\n\nClarification: To count as \"having wolves\", the country must have a wild population of at least 150 members of the canis lupus species in 2024.",
                 "answers": ["Canada", "Spain", "Portugal", "Australia"]
+            },
+            "10/15/2024": {
+                "question": "Which seven post-1792 elections would have a different result if the U.S. never expanded past the 13 colonies?\n\nClarification: Please only put the year of the election.",
+                "answers": ["1876", "1916", "1948", "1968", "2000", "2004", "2016"]
+            },
+            "10/16/2024": {
+                "question": "Which four American-made films have grossed over $1 billion worldwide but made less than 25% of their worldwide gross from the U.S. and Canada?",
+                "answers": ["The Fate of the Furious", "Transformers: Age of Extinction", "Pirates of the Carribean: On Stranger Tides", "Furious 7"],
+                "annotations": ["18%", "22%", "23%", "23%"],
+                "alternates": [["F8", "The Fast and the Furious 8"], ["Age of Extinction", "Transformers 4"], ["On Stranger Tides", "Pirates of the Carribean 4"], ["F7", "The Fast and the Furious 7"]
             }
         };
+
 
         function updateQuestion(newDate) {
             const dateElement = document.getElementById('current-date');
