@@ -102,6 +102,7 @@
             "10/13/2024": {
                 "question": "Name the four countries that have had 3+ female non-interim chief executives since 1939.",
                 "answers": ["Finland", "Moldova", "New Zealand", "United Kingdom"],
+                "alternates": [["Republic of Finland"], ["Republic of Moldova"], ["Aotearoa"], ["Great Britain", "UK", "United Kingdom of Great Britain and Northern Ireland"]],
             },
             "10/14/2024": {
                 "question": "Besides the United States, name the four countries that have both wild gray wolves and monarch butterflies.\n\nClarification: To count as \"having wolves\", the country must have a wild population of at least 150 members of the canis lupus species in 2024.",
@@ -158,7 +159,7 @@
             const todayQuestion = questions[currentDate]["question"];
             questionBox.innerText = todayQuestion;
 
-            const numberOfInputs = questions[currentDate]["answers"].length 
+            const numberOfInputs = ("numAnswers" in questions[currentDate]) ? questions[currentDate]["numAnswers"] : questions[currentDate]["answers"].length 
             const inputFieldsDiv = document.getElementById("input-fields");
 
             clearDiv(inputFieldsDiv);
@@ -210,7 +211,6 @@
             const answerDiv = document.getElementById("answer");
 
             var numCorrect = 0;
-            var total = 0;
             questions[currentDate]["answers"].forEach((item, index) => {
                 const answerBox = document.createElement("div");
                 answerBox.className = "input-box";
@@ -227,11 +227,12 @@
                 answerBox.style.backgroundColor = isCorrect ? "rgba(143, 188, 143, 0.67)" : "rgb(205, 92, 92, 0.67)";
                 answerDiv.appendChild(answerBox);
                 numCorrect = numCorrect + (isCorrect ? 1 : 0);
-                total = total + 1;
             });
 
+            const numAnswers = ("numAnswers" in questions[currentDate]) ? questions[currentDate]["numAnswers"] : questions[currentDate]["answers"].length 
+
             const numCorrectElement = document.createElement("h3");
-            numCorrectElement.textContent = `You got ${numCorrect} / ${total} correct`;
+            numCorrectElement.textContent = `You got ${numCorrect} / ${numAnswers} correct`;
             document.getElementById("num-correct").appendChild(numCorrectElement);
 
             const inputFieldsDiv = document.getElementById("input-fields");
