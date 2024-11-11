@@ -21,6 +21,6 @@ Outside of work, I spend a lot of time making overly elaborate trivia questions,
 
 [Training Language Models to Win Debates with Self-Play Improves Judge Accuracy](https://arxiv.org/abs/2409.16636)\\
 Samuel Arnesen, David Rein, Julian Michael\\
-[\[arxiv\]](https://arxiv.org/abs/2409.16636) [\[pdf\]](https://arxiv.org/pdf/2409.16636)[\[code\]](https://github.com/samuelarnesen/nyu-debate-modeling) 
+[\[arxiv\]](https://arxiv.org/abs/2409.16636) [\[pdf\]](https://arxiv.org/pdf/2409.16636)[\[code\]](https://github.com/samuelarnesen/nyu-debate-modeling) [\[media\]](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
 
 
