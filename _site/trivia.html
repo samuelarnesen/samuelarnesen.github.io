@@ -279,8 +279,21 @@
                 "question": "Name the three most populous UN-recognized countries that are not universally recognized by all the other UN-recognized countries",
                 "answers": ["China", "South Korea", "North Korea"],
                 "alternates": [["PRC", "People's Republic of China"], ["S. Korea", "ROK", "Republic of Korea"], ["N. Korea", "Democratic People's Republic of Korea", "DPRK"]]
+            },
+            "11/28/2024": {
+                "question": "There are five songs with over 1 billion streams on Spotify that are originally introduced diagetically within a movie. Name 4.\n\nClarification 1: By \"diagetic\", we mean that the song is indisputably playing \"in universe\" within the movie. For example, if it had more streams, \"Let It Go\" by Idina Menzel would count since it is sung by a character within the movie. However, \"Happy\" by Pharell Williams would not count because it is exclusively played in the background during Despicable Me 2.\n\nClarification 2: By \"original\", we mean that the song must be written for the movie. So \"I Will Always Love You\" by Whitney Houston, as performed in \"The Bodyguard\", would not count, since it was originally written and released independently by Dolly Parton 19 years previously.\n\nClarification 3: Please only put the name of the song -- do not include the artist or movie",
+                "answers": ["Sunflower", "Shallow", "Lose Yourself", "Can't Stop the Feeling", "Always Remember Us This Way"],
+                "annotations": ["Post Malone, Spiderman: Into the Spiderverse", "Lady Gaga & Bradley Cooper, A Star Is Born", "Eminem, 8 Mile", "Justin Timberlake, Trolls", "Lady Gaga, A Star Is Born"]
+            },
+            "12/1/2024": {
+                "question": "Name the five official Disney princesses whose name is currently a 1000 most popular names for a newborn girl in America.",
+                "answers": ["Aurora", "Jasmine", "Ariel", "Raya", "Tiana"],
+                "alternates": [["Sleeping Beauty"], [], ["The Little Mermaid", "Little Mermaid"], [], []],
+                "annotations": ["22", "190", "288", "353", "609"]
             }
         };
+
+        const defaultDate = "11/28/2024";
 
         function updateQuestion(newDate) {
             const dateElement = document.getElementById('current-date');
@@ -288,7 +301,7 @@
                 dateElement.textContent = new Date(newDate).toLocaleDateString();
             } else {
                 const currentDate = new Date().toLocaleDateString();
-                dateElement.textContent = currentDate;
+                dateElement.textContent = (currentDate in questions) ? currentDate : new Date(defaultDate).toLocaleDateString();
             }
             renderQuestion()
         }
@@ -311,7 +324,7 @@
         function renderQuestion() {
             const currentDate = getCurrentDate()
             const questionBox = document.getElementById("question-box");
-            const todayQuestion = questions[currentDate]["question"];
+            const todayQuestion =  questions[currentDate]["question"];
             questionBox.innerText = todayQuestion;
 
             const numberOfInputs = ("numAnswers" in questions[currentDate]) ? questions[currentDate]["numAnswers"] : questions[currentDate]["answers"].length 
