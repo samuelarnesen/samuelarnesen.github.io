@@ -8,7 +8,7 @@ layout: home
 <p>
   <img src="{{ '/assets/img/profile-cropped.jpg' | relative_url }}" alt="Profile Image" style="float: right; margin: 0 0 10px 10px; max-width: 200px;">
 
-I am a Research Engineer in the Alignment Research Group at NYU's Center for Data Science. Previously, I was a Software Engineer at Amazon, where I worked on improving the performance and extensibility of the core infrastructure in the advertising division. I hold a Bachelor's degree in computer science from Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games.
+I am a Research Engineer on the Alignment team at OpenAI. Previously, I was a Research Engineer in the Alignment Research Group at NYU's Center for Data Science, where I worked on scalable oversight, and a Software Engineer at Amazon, where I worked on improving the performance and extensibility of the core infrastructure in the advertising division. I hold a Bachelor's degree in computer science from Princeton University, where my thesis was on fine-tuning language models by applying reinforcement learning to text-based games.
 <br/>
 <br/>
 I also competed in debate, where I was the runner-up at the World Universities Debating Championship, top individual debater at the collegiate North American Debating Championship, and two-time high school national champion.
